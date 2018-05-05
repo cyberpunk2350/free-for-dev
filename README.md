@@ -68,8 +68,11 @@ Table of Contents
 
 ## Artifact Repos
 
+ * [bintray.com](https://bintray.com/) - JFrog Bintray hosts Open Source projects for free, and supports Docker, Maven, NuGet, npm, Debian, RPM, Conan, Vagrant, Opkg, yum, and also home to [JCenter](https://bintray.com/bintray/jcenter) the most comprehensive colleciton of Maven artifacts.
  * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
  * [packagecloud.io](https://packagecloud.io) - Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
+ * [cloudsmith.io](https://cloudsmith.io) - Simple, secure and centralised repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant +more. Free tier + free for open source.
+ * [jitpack.io](https://jitpack.io/) - Maven repository for JVM and Android projects on GitHub, free for public projects.
 
 ## Tools for Teams and Collaboration
 
@@ -305,6 +308,7 @@ Table of Contents
   * [elasticemail.com](https://elasticemail.com) — First 150,000 emails/month free
   * [appmail.io](https://appmail.io) — First 10,000 emails free
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
+  * [migadu.com](https://www.migadu.com/) — Email Hosting (Webmail, SMTP, IMAP, ...) - free plan is limited to 10 outgoing mails/day
 
 ## CDN and Protection
 
@@ -345,7 +349,7 @@ Table of Contents
   * [zeit.co/now](https://zeit.co/now) — Managed platform for Node.js, static sites and Docker deployments. Limited to 3 concurrent instances, 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)
   * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
-  * [glitch.com](https://www.glitch.com/) — Free unlimited public/private hosting for Node.js apps with features such as code sharing and real-time collaboration
+  * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting for Node.js apps with features such as code sharing and real-time collaboration
 
 ## BaaS
 
@@ -354,7 +358,7 @@ Table of Contents
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
   * [kinvey.com](http://www.kinvey.com/) — Mobile backend, starter plan has unlimited requests/second, with 2 GB of data storage, as well as push notifications for up 5 million unique recipients. Enterprise application support
   * [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
-  * [pusher.com](https://pusher.com/push-notifications/) - Free, unlimited push notifications at scale. A single API for iOS and Android devices
+  * [pusher.com](https://pusher.com/beams/) - Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
   * [konacloud.io](http://konacloud.io/) — Web and Mobile Backend as a Service, with 5 GB free account
   * [layer.com](https://layer.com/) — The full-stack building block for communications
   * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling and push notifications
@@ -421,7 +425,6 @@ Table of Contents
    * [cloudant.com](https://cloudant.com/) — Hosted database from IBM, free if usage is below USD 50/month
    * [orchestrate.io](https://orchestrate.io/) — 1 application free
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
-   * [backand.com](https://www.backand.com/) — Back-end as a service for AngularJS
    * [zenginehq.com](http://www.zenginehq.com/) — Build business workflow apps in minutes, free for single users
    * [redsmin.com](https://redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](http://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
@@ -486,7 +489,6 @@ Table of Contents
 ## Storage and Media Processing
 
    * [aerofs.com](https://aerofs.com/) — P2P file syncing, free for up to 30 users
-   * [bintray.com](https://bintray.com/) — Binary File storage, free for Open Source. Includes SSL, CDN and a limited number of REST calls
    * [cloudinary.com](http://cloudinary.com/) — Image upload, powerful manipulations, storage and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
    * [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
    * [transloadit.com](https://transloadit.com/) — Handles file uploads and encoding of video, audio, images, documents. Free for Open Source and other do-gooders. Commercial applications get 1 GB free for test driving
@@ -632,7 +634,6 @@ Table of Contents
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
-  * [import.io](https://import.io/) — Easily turn websites into APIs, completely free for life
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API
   * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
   * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
