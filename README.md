@@ -53,9 +53,9 @@ Table of Contents
 
 ## Source Code Repos
 
+  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators)
   * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private repos (Git and Mercurial) for up to 5 users with Pipelines for CI/CD
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
-  * [github.com](https://github.com/) — Unlimited number of public repositories
   * [about.gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators
   * [visualstudio.com](https://www.visualstudio.com/) — Unlimited private repos (Git and TFS) for up to 5 users/team
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofit organizations
@@ -64,6 +64,29 @@ Table of Contents
   * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
   * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
+
+## APIs, Data and ML
+  * [ApiFlash](https://apiflash.com) — A screenshot API based on Aws Lambda and Chrome. Handles full page, capture timing, viewport dimensions, ...
+  * [Scraper API](https://www.scraperapi.com/) — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.
+  * [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
+  * [monkeylearn.com](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month
+  * [wit.ai](https://wit.ai/) — NLP for developers
+  * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud
+  * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
+  * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API
+  * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
+  * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
+  * [konghq.com/](https://konghq.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support
+  * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, Matlab and others
+  * [havenondemand.com](https://www.havenondemand.com) — APIs for machine learning
+  * [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
+  * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
+  * [context.io](https://context.io) — Create simple email webhooks and code against a free, RESTful, IMAP API to leverage email data
+  * [Apify](https://www.apify.com/) — Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention.
+  * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
+  * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
+  * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
+  * [Ipgeolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 50k requests per month limit.
 
 ## Artifact Repos
 
@@ -156,6 +179,7 @@ Table of Contents
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
   * [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
+  * [bitrise.io](https://www.bitrise.io/) — Hosted CI/CD for iOS and Android with free unlimited builds, apps and teammembers and 1 concurrent run for OSS projects
 
 ## Automated Browser Testing
 
@@ -202,6 +226,7 @@ Table of Contents
 
 ## Log Management
 
+  * [humio.com](https://www.humio.com/) — Free up to 2 GB/day with 7 days retention
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
   * [logz.io](https://logz.io/) — Free up to 1 GB/day, 3 days retention
@@ -246,10 +271,10 @@ Table of Contents
   * [blackfire.io](https://blackfire.io/) — Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan (PHP only)
   * [apimetrics.io](https://apimetrics.io/) — Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
   * [opsdash.com](https://www.opsdash.com/) — Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
-  * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Unlimited free checks
+  * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Free for up to 20 checks.
   * [appbeat.io](https://appbeat.io) — Website monitoring, 3 monitors free. They offer very reliable and affordable monitor service.
   * [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
-  * [letsmonitor.org](https://letsmonitor.org/) — TLS certificate expiration and connectivity monitoring with email and SMS alerts.
+  * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
 
 ## Crash and Exception Handling
 
@@ -264,6 +289,7 @@ Table of Contents
   * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 5 MB storage
   * [indexisto.com](https://indexisto.com/) — Site search, free 10 million documents index limit with advertisement block
+  * [cloudsh.com](https://cloudsh.com/) — Powerful search for your website with a few lines of JavaScript. Free personal plan with 300 documents. Free for Open Source up to 10,000 documents.
 
 ## Email
 
@@ -291,7 +317,7 @@ Table of Contents
   * [maildocker.com](https://maildocker.com) — First 10,000 emails/month free
   * [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month free
   * [pepipost.com](https://www.pepipost.com) — Unlimited emails free for first three months, then first 25,000 emails/month free
-  * [elasticemail.com](https://elasticemail.com) — First 150,000 emails/month free
+  * [elasticemail.com](https://elasticemail.com) — 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [migadu.com](https://www.migadu.com/) — Email Hosting (Webmail, SMTP, IMAP, ...) — free plan is limited to 10 outgoing mails/day
 
@@ -304,9 +330,7 @@ Table of Contents
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
   * [asp.net](https://www.asp.net/ajax/cdn/) — The Microsoft Ajax CDN hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
-  * [rawgit.com](https://rawgit.com/) — Free limited traffic, serves raw files directly from GitHub with proper Content-Type headers
   * [incapsula.com](https://www.incapsula.com/) — Free CDN and DDoS protection
-  * [fastly.com](https://www.fastly.com/) — Free CDN, all features until USD 50/month is reached, enough for most, then pay or suspended
   * [Web Support Revolution](https://w.tools/) — Free CDN, backup, firewall, antivirus and monitoring.
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
@@ -357,11 +381,11 @@ Table of Contents
   * [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications up to 2000 Subscribers
   * [streamdata.io](https://streamdata.io/) — Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections
   * [posthook.io](https://posthook.io/) — Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free.
+  * [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for 1 app, 1GB app data.
 
 ## Web Hosting
 
   * [pages.github.com](https://pages.github.com/) — Hosting static site directly from GitHub repository
-  * [closeheat.com](https://closeheat.com/) — Development Environment in the Cloud for Static Websites with Free Hosting and GitHub integration. 1 free website with custom domain support
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps and websites into a personal developer portfolio
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 GB data and 100 GB/month bandwidth
@@ -403,7 +427,6 @@ Table of Contents
 ## DBaaS
 
    * [ibm.com](https://www.ibm.com/cloud/cloudant) — Hosted database from IBM, 1 GB free
-   * [orchestrate.io](https://orchestrate.io/) — 1 application free
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
    * [redsmin.com](https://redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](https://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
@@ -441,6 +464,7 @@ Table of Contents
    * [trello.com](https://trello.com/) — Board based project management. Free
    * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
+   * [LeanBoard](https://www.leanboard.io) - Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 10 users)
@@ -465,6 +489,7 @@ Table of Contents
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
    * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) - Free one-year Office 365 E3 subscription for development/testing.
+   * [senseitool.com](https://www.senseitool.com/) - An agile retrospective tool - Free.
 
 
 
@@ -528,7 +553,8 @@ Table of Contents
    * [codeanywhere.com](https://codeanywhere.com/) — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions and version tracking (free tier includes 256MB RAM, 2GB HDD, 1 remote connection, no always on machine)
    * [codenvy.com](https://codenvy.com/) — IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 3 GB RAM, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
    * [visualstudio.com](https://visualstudio.com/community) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
-   * [cocalc.com](https://cocalc.com/) (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc
+   * [ide.goorm.io](https://ide.goorm.io) goormIDE is full IDE on cloud. muti-language support, linux-based container via the fully-featured web-based terminal, port forwarding, custom url, real-time collaboration and chat, share link, Git/Subversion support. There are many more features (free tier includes 1GB RAM and 10GB Storage per container, 5 Container slot)
+   * [cocalc.com](https://cocalc.com/) — (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc
    * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity, using text editor plugins, limited plan for free
    * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * [mockable.io](https://www.mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data
@@ -540,7 +566,8 @@ Table of Contents
    * [codesandbox.io](https://codesandbox.io/) — Online React playground
    * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
    * [cacher.io](https://www.cacher.io) - Code snippet organizer with labels and support for 100+ programming languages
-
+   * [Coder](https://coder.com) - Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
+   * [gitpod.io](https://gitpod.io) - Instant, ready-to-code dev environmments for GitHub projects. Free for open-source.
 
 ## Analytics, Events and Statistics
 
@@ -578,7 +605,6 @@ Table of Contents
 
 ## Docker Related
 
-  * [openshift.com](https://www.openshift.com/) —  Container platform based on Docker and Kubernetes. Free for 2 vCPU, 1GiB Memory, 1GiB Storage.
   * [Docker Cloud](https://cloud.docker.com) — Manages the deployments of Docker containers to your (separate) cloud environment with one free repository
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
@@ -604,28 +630,6 @@ Table of Contents
   * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call.
   * [Typeform.com](https://www.typeform.com/) — Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
-
-## APIs, Data and ML
-
-  * [Scraper API](https://www.scraperapi.com/) — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.
-  * [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
-  * [monkeylearn.com](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month
-  * [wit.ai](https://wit.ai/) — NLP for developers
-  * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud
-  * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
-  * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API
-  * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
-  * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
-  * [konghq.com/](https://konghq.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support
-  * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, Matlab and others
-  * [havenondemand.com](https://www.havenondemand.com) — APIs for machine learning
-  * [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
-  * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
-  * [context.io](https://context.io) — Create simple email webhooks and code against a free, RESTful, IMAP API to leverage email data
-  * [Apify](https://www.apify.com/) — Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention.
-  * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
-  * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
-  * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
 
 ## Other Free Resources
   * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
